@@ -90,7 +90,7 @@ export default function EnquiryModal({
       campaign: true,
       projectId: "",
       projectName: "Adarsh Welkin Park",
-      currentAgent: "Fahad Ur Rahman",
+      currentAgent: "Fahad",
       utmDetails: {
         source: utmParams.utmSource || null,
         medium: utmParams.utmMedium || null,
