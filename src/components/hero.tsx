@@ -53,7 +53,7 @@ export default function Hero() {
 
           {/* Heading */}
           <h1 className="text-[36px] md:text-5xl lg:text-[58px] font-extrabold font-['Urbanist'] mb-4 leading-tight drop-shadow-2xl">
-          Luxury Apartments in Off Sarjapur Road
+          Luxury Apartments Off Sarjapur Road
           </h1>
 
           {/* Description */}
