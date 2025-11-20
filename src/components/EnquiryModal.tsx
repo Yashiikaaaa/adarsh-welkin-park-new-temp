@@ -89,7 +89,7 @@ export default function EnquiryModal({
       phoneNumber: phoneNumber.trim(),
       campaign: true,
       projectId: "",
-      projectName: "Adarsh Welkin Park",
+      projectName: "Adarsh Welkin Park phase 2",
       currentAgent: "Fahad",
       utmDetails: {
         source: utmParams.utmSource || null,
